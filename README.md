@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi, I'm Naphtali Peter
 
-<!--
-**naph1/Naph1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Full-Stack Developer & Cybersecurity Engineer** focused on building
+secure, accessible systems with real-world engineering trade-offs.
 
-Here are some ideas to get you started:
+### 🔧 What I Work On
+- Full-stack web applications (React, Flask, REST APIs)
+- Accessibility-focused software
+- Cybersecurity labs & DFIR simulations
+- Linux hardening and network monitoring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⭐ Featured Projects
+- **Voice-Based Email System** — Accessibility-first backend system
+- **Recipe Remixer (AI)** — Structured prompt engineering & UI rendering
+- **DFIR Labs** — Incident response & forensic analysis
+
+📫 Reach me via my portfolio or GitHub.
