@@ -13,5 +13,6 @@ secure, accessible systems with real-world engineering trade-offs.
 - **Voice-Based Email System** — Accessibility-first backend system
 - **Recipe Remixer (AI)** — Structured prompt engineering & UI rendering
 - **DFIR Labs** — Incident response & forensic analysis
+- **30DaysOfSOC: Enterprise Threat Detection Lab
 
 📫 Reach me via my portfolio or GitHub.
