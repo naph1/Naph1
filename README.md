@@ -64,5 +64,3 @@ I'm open to cybersecurity opportunities, development projects, collaborations, a
 - **GitHub:** [github.com/naph1](https://github.com/naph1)
 
 *Building secure systems, investigating threats, and developing solutions that make a difference.*
-
-*Building secure systems, investigating threats, and developing solutions that make a difference.*
