@@ -56,7 +56,13 @@ I'm interested in opportunities involving:
 
 ### 📫 Let's Connect
 
+I'm open to cybersecurity opportunities, development projects, collaborations, and professional connections.
+
+- **Email:** [peternaph19@gmail.com](mailto:peternaph19@gmail.com)
+- **LinkedIn:** [Naphtali Peter](https://www.linkedin.com/in/naphtali-peter-501887298)
 - **Portfolio:** [naphtali-portfolio.netlify.app](https://naphtali-portfolio.netlify.app)
 - **GitHub:** [github.com/naph1](https://github.com/naph1)
+
+*Building secure systems, investigating threats, and developing solutions that make a difference.*
 
 *Building secure systems, investigating threats, and developing solutions that make a difference.*
